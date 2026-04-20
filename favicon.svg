@@ -1,1 +1,4 @@
-favicon.svg
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" fill="#7aa2ff" rx="20"/>
+  <text x="50" y="70" font-family=" 'Ubuntu', -apple-system, system-ui, sans-serif" font-size="50" font-weight="900" fill="#ffffffff" text-anchor="middle">W</text>
+</svg>
