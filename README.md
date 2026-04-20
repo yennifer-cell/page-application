@@ -73,8 +73,8 @@ License
 This project is created for educational purposes as part of the Moringa School curriculum.
 
 Author
-Kashkaiii
+Janeffer
 
 Acknowledgments
 Free Dictionary API for providing the word data
-Moringa School for the project requirements# page-application
+Moringa School for the project requirements
