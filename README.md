@@ -71,6 +71,7 @@ Fetch API
 LocalStorage
 License
 This project is created for educational purposes as part of the Moringa School curriculum.
+https://yennifer-cell.github.io/page-application/
 
 Author
 Janeffer
